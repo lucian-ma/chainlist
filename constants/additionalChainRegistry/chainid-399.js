@@ -14,7 +14,7 @@ export const data = {
   "infoURL": "https://www.naaidepin.co",
   "shortName": "nadi",
   "chainId": 399,
-  "networkId": 399,
+  "networkId": 23999,
   "icon": "naaidepin",
   "explorers": [{
     "name": "naaidepin",
